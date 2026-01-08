@@ -1,5 +1,3 @@
-# Data-Analysis-with-Python
-
 # 🎵 Spotify Songs Exploratory Data Analysis (2015–2025)
 
 ## 📌 Project Overview
